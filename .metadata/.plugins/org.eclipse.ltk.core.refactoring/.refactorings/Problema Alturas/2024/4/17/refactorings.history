@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;entities.Height.java&apos; to &apos;Person.java&apos;&#x0D;&#x0A;- Original project: &apos;Problema Alturas&apos;&#x0D;&#x0A;- Original element: &apos;entities.Height.java&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Person.java&apos;" description="Rename compilation unit &apos;Height.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;entities{Height.java" name="Person.java" references="false" stamp="1713830470187" version="1.0"/>
+</session>

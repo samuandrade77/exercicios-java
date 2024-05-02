@@ -1,0 +1,21 @@
+INDEX VERSION 1.134+C:\Users\samue\OneDrive\Arquivos de Programas\Temp\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+2160460600.index
+3731483229.index
+382685493.index
+4177101054.index
+4054857907.index
+1010809370.index
+1814282420.index
+3893712176.index
+1865797976.index
+3924750206.index
+1901039719.index
+1883952473.index
+2323436498.index
+919553734.index
+795823858.index
+535939879.index
+3124777341.index
+1294971363.index
+1769431833.index
+1031821313.index
