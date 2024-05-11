@@ -15,12 +15,15 @@ public class Program {
 			System.out.print("Digite um número: ");
 			vect[i] = sc.nextDouble();}
 		
+		double vetmaior = vect[0];
+		int posmaior = 0;
 		for (int i=0; i<n; i++) {
-			if (vect[i] < 2) {
-				System.out.println(i);
-			}
-		}
+			if(vect[i] > vetmaior) {
+				vetmaior = vect[i];
+				posmaior = i;}}
 		
+		System.out.printf("Maior valor = %.f", vetmaior);
+		System.out.println("Posição do maior valor = " + posmaior);
 		sc.close();
 	}
 
